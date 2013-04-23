@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/20/trunk/StrategyLib/examples/little-lambda
+END
+Test.correct
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/StrategyLib/examples/little-lambda/Test.correct
+END
+DatatypesTermInstances.hs
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/StrategyLib/examples/little-lambda/DatatypesTermInstances.hs
+END
+Datatypes.hs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/StrategyLib/examples/little-lambda/Datatypes.hs
+END
+Main.hs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/StrategyLib/examples/little-lambda/Main.hs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/StrategyLib/examples/little-lambda/Makefile
+END

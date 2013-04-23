@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 51
+*.hi
+*.o
+*.log
+*_out.hs
+HsTransform
+HsExtract
+out
+
+
+END

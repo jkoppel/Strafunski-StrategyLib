@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/trunk/StrategyLib/examples/two-sorts-deriving
+END
+Test.correct
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-deriving/Test.correct
+END
+Datatypes.hs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-deriving/Datatypes.hs
+END
+Main.hs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-deriving/Main.hs
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-deriving/README
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-deriving/Makefile
+END

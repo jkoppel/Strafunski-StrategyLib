@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/27/trunk/StrategyLib/examples/joos-padl02/testsuite
+END
+fowlerWrongAssign.correct
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowlerWrongAssign.correct
+END
+fowlerAssign.correct
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowlerAssign.correct
+END
+fowlerWrongReturn.joos
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowlerWrongReturn.joos
+END
+fowlerDoubles.joos
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowlerDoubles.joos
+END
+fowler.joos
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowler.joos
+END
+fowlerWrongAssign.joos
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowlerWrongAssign.joos
+END
+fowlerWrongReturn.correct
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowlerWrongReturn.correct
+END
+fowlerDoubles.correct
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowlerDoubles.correct
+END
+fowlerAssign.joos
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowlerAssign.joos
+END
+Main.hs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/Main.hs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/Makefile
+END
+fowler.correct
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-padl02/testsuite/fowler.correct
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/29/trunk/StrategyLib/examples/joos-rule02
+END
+Test.correct
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/Test.correct
+END
+extract-fine.joos
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/extract-fine.joos
+END
+Parser.hs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/Parser.hs
+END
+MainIO.hs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/MainIO.hs
+END
+DatatypesTermInstances.hs
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/DatatypesTermInstances.hs
+END
+Datatypes.hs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/Datatypes.hs
+END
+ParseLib.hs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/ParseLib.hs
+END
+Main.hs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/Main.hs
+END
+Instance.hs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/Instance.hs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/Makefile
+END

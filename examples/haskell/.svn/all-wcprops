@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/25/trunk/StrategyLib/examples/haskell
+END
+HsTransform.hs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/HsTransform.hs
+END
+NewTypeIntro.hs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/NewTypeIntro.hs
+END
+DoElim.hs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/DoElim.hs
+END
+TestDoElim.hs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/TestDoElim.hs
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/README
+END
+Literate.lhs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/Literate.lhs
+END
+SyntaxTermInstances.hs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/SyntaxTermInstances.hs
+END
+TestDoElim_correct.hs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/TestDoElim_correct.hs
+END
+HsDeadCodeElim.hs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/HsDeadCodeElim.hs
+END
+HsIOWrap.hs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/HsIOWrap.hs
+END
+HsChaseImports.hs
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/HsChaseImports.hs
+END
+HsModuleCollection.hs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/HsModuleCollection.hs
+END
+HsFreeNames.hs
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/HsFreeNames.hs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/Makefile
+END
+HsExtract.hs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7/trunk/StrategyLib/examples/haskell/HsExtract.hs
+END

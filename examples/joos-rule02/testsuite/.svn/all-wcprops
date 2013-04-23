@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/29/trunk/StrategyLib/examples/joos-rule02/testsuite
+END
+extract-wrong-return.correct
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/extract-wrong-return.correct
+END
+introduce-wrong-def.correct
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/introduce-wrong-def.correct
+END
+introduce-fine.joos
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/introduce-fine.joos
+END
+extract-wrong-assign.correct
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/extract-wrong-assign.correct
+END
+eliminate-fine.correct
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/eliminate-fine.correct
+END
+declare-fine.joos
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/declare-fine.joos
+END
+extract-fine.correct
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/extract-fine.correct
+END
+extract-wrong-return.joos
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/extract-wrong-return.joos
+END
+introduce-wrong-def.joos
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/introduce-wrong-def.joos
+END
+Main.hs
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/Main.hs
+END
+eliminate-fine.joos
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/eliminate-fine.joos
+END
+extract-wrong-assign.joos
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/extract-wrong-assign.joos
+END
+eliminate-wrong.correct
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/eliminate-wrong.correct
+END
+extract-fine.joos
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/extract-fine.joos
+END
+declare-wrong.joos
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/declare-wrong.joos
+END
+eliminate-wrong.joos
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/eliminate-wrong.joos
+END
+introduce-fine.correct
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/introduce-fine.correct
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/StrategyLib/examples/joos-rule02/testsuite/Makefile
+END

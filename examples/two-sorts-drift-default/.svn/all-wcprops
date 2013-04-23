@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/StrategyLib/examples/two-sorts-drift-default
+END
+Test.correct
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-drift-default/Test.correct
+END
+DatatypesTermInstances.hs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-drift-default/DatatypesTermInstances.hs
+END
+Datatypes.hs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-drift-default/Datatypes.hs
+END
+Main.hs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-drift-default/Main.hs
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7/trunk/StrategyLib/examples/two-sorts-drift-default/Makefile
+END
