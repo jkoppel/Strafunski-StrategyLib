@@ -20,7 +20,8 @@ module Data.Generics.Strafunski.StrategyLib.ChaseImports (
 ) where
 
 import Control.Monad
-import System.Directory hiding ( findFile )
+-- import System.Directory hiding ( findFile )
+import qualified System.Directory as D
 import Control.Monad.Error () -- This import gives us (MonadPlus IO) !!
 import Control.Exception
 import System.IO
@@ -113,7 +114,7 @@ findFile :: [FilePath]          -- ^ path (directories to search)
 	 -> [String]            -- ^ possible extensions
 	 -> IO FilePath         -- ^ contents of file
 findFile dirs basename exts
-  = do existingFileNames <- filterM doesFileExist fnames
+  = do existingFileNames <- filterM D.doesFileExist fnames
        case existingFileNames of
          (fn:_) 
 	     -> errLn ("Found file: "++fn) >> return fn
