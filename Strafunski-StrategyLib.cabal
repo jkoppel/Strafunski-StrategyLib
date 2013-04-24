@@ -55,5 +55,5 @@ library
         base > 4.4,
         mtl > 2.1,
         syb > 0.3,
-        directory > 1.2
+        directory > 1.1
   
