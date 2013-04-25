@@ -11,7 +11,7 @@ retained as is.
 module Data.Generics.Strafunski.StrategyLib.Models.Deriving.StrategyPrimitives (
 
   Term,
-  TP,         TU,
+  TP,         TU(..),
   paraTP,     paraTU,
   applyTP,    applyTU,
   adhocTP,    adhocTU,
