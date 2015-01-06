@@ -46,8 +46,8 @@ module Data.Generics.Strafunski.StrategyLib.StrategyLib (
 import Control.Monad
 import Control.Monad.Fix
 import Control.Monad.Trans
+import Control.Monad.Trans.Maybe
 import Control.Monad.Identity
-import Control.Monad.Maybe
 import Control.Monad.State
 import Data.Monoid
 import Data.Generics.Strafunski.StrategyLib.MoreMonoids

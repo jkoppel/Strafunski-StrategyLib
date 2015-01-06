@@ -16,21 +16,6 @@ module Data.Generics.Strafunski.StrategyLib.MonadicFunctions where
 import Control.Monad
 
 ------------------------------------------------------------------------------
--- * The identity monad 
-
--- | Identity type constructor.
-newtype Id a = Id a
-
--- | Unwrap identity type constructor
-unId 		:: Id a -> a
-unId (Id x) 	 = x
-
-instance Monad Id where
- return = Id
- (Id x) >>= f = f x
-
-
-------------------------------------------------------------------------------
 -- * Recover from partiality
 
 -- | Force success. If the argument value corresponds to failure, 

@@ -27,7 +27,6 @@ library
         Rank2Types
 
   exposed-modules:
-        Control.Monad.Maybe,
         Control.Monad.Run,
         Data.Generics.Strafunski.StrategyLib.ChaseImports,
         Data.Generics.Strafunski.StrategyLib.ContainerTheme,
@@ -55,5 +54,6 @@ library
         base > 4.4 && < 4.8,
         mtl > 2.2,
         syb > 0.3 && < 4.1,
-        directory > 1.1 && < 1.2.1
+        directory > 1.1 && < 1.2.2,
+        transformers >= 0.2
   

@@ -15,10 +15,10 @@
 module Control.Monad.Run where
 
 import Control.Monad.Trans
+import Control.Monad.Trans.Maybe
 import Control.Monad.Identity
 import Control.Monad.State
 import Control.Monad.List
-import Control.Monad.Maybe
 import Control.Monad.Error
 import System.IO.Unsafe (unsafePerformIO) -- for running IO monads
 
