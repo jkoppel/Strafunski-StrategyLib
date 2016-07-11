@@ -1,11 +1,11 @@
 name:                Strafunski-StrategyLib
-version:             5.0.0.7
+version:             5.0.0.8
 synopsis:            Library for strategic programming
 description:         This is a version of the StrategyLib library originally shipped with Strafunski, Cabalized and updated to newer versions of GHC. A description of much of StrategyLib can be found in the paper "Design Patterns for Functional Strategic Programming."
 license:             BSD3
 license-file:        LICENSE
 author:              Ralf Laemmel, Joost Visser
-maintainer:          darmanithird@gmail.com
+maintainer:          darmanithird@gmail.com,alan.zimm@gmail.com
 category:            Generics
 build-type:          Simple
 cabal-version:       >=1.8
@@ -51,9 +51,9 @@ library
 --   other-modules:       
 
   build-depends:
-        base > 4.4 && < 4.9,
+        base > 4.4 && < 4.10,
         mtl > 2.2,
         syb > 0.3 && < 4.1,
-        directory > 1.1 && < 1.2.2,
+        directory > 1.1 && < 1.2.7,
         transformers >= 0.2
   
