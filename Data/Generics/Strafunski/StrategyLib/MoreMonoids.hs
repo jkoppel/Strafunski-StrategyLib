@@ -1,3 +1,4 @@
+{-# LANGUAGE CPP #-}
 ------------------------------------------------------------------------------
 -- | 
 -- Maintainer	: Ralf Laemmel, Joost Visser
@@ -15,6 +16,10 @@ module Data.Generics.Strafunski.StrategyLib.MoreMonoids where
 import Data.Monoid
 
 ------------------------------------------------------------------------------
+#if __GLASGOW_HASKELL__ >= 804
+instance Num a => Semigroup a where
+  (<>) = mappend
+#endif
 
 -- | Any 'Num' is a 'Monoid'.
 instance Num a => Monoid a where

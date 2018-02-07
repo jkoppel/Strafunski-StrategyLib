@@ -17,6 +17,7 @@ import Data.Monoid
 import Data.Generics.Strafunski.StrategyLib.StrategyPrelude
 import Data.Generics.Strafunski.StrategyLib.OverloadingTheme
 import Data.Generics.Strafunski.StrategyLib.FlowTheme
+import Data.Generics.Strafunski.StrategyLib.MoreMonoids
 
 ------------------------------------------------------------------------------
 -- * An abstract datatype for metrics
