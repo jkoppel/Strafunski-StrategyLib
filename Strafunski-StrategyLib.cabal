@@ -51,7 +51,7 @@ library
 --   other-modules:       
 
   build-depends:
-        base > 4.4 && < 4.12,
+        base > 4.4 && < 4.13,
         mtl > 2.2,
         syb > 0.3 && < 4.1,
         directory > 1.1 && < 1.4,
